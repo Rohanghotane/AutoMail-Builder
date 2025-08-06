@@ -3,6 +3,7 @@ langchain-community==0.2.12
 langchain-groq=0.1.9
 chromadb==0.4.0
 groq==0.3.0
-ChromaDB
 streamlit==1.35.0 
+Pandas==2.0.2
+ChromaDB
 python-dotenv
